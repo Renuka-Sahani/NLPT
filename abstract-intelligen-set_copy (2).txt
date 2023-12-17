@@ -1,0 +1,385 @@
+Citation: Anesthesiology. 2020 Feb;132(2):379-394. doi: 10.1097/ALN.0000000000002960.
+
+Title: Artificial Intelligence in Anesthesiology: Current Techniques, Clinical 
+Applications, and Limitations.
+
+Authors: Hashimoto DA(1), Witkowski E, Gao L, Meireles O, Rosman G.
+
+AuthorInformation:
+(1)From the Surgical Artificial Intelligence and Innovation Laboratory (D.A.H., 
+E.W., O.M., G.R.) Department of Anesthesia, Critical Care, and Pain Medicine 
+(L.G.), Massachusetts General Hospital, Boston, Massachusetts Computer Science 
+and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, 
+Cambridge, Massachusetts (G.R.).
+
+Abstract: Artificial intelligence has been advancing in fields including anesthesiology. 
+This scoping review of the intersection of artificial intelligence and 
+anesthesia research identified and summarized six themes of applications of 
+artificial intelligence in anesthesiology: (1) depth of anesthesia monitoring, 
+(2) control of anesthesia, (3) event and risk prediction, (4) ultrasound 
+guidance, (5) pain management, and (6) operating room logistics. Based on papers 
+identified in the review, several topics within artificial intelligence were 
+described and summarized: (1) machine learning (including supervised, 
+unsupervised, and reinforcement learning), (2) techniques in artificial 
+intelligence (e.g., classical machine learning, neural networks and deep 
+learning, Bayesian methods), and (3) major applied fields in artificial 
+intelligence.The implications of artificial intelligence for the practicing 
+anesthesiologist are discussed as are its limitations and the role of clinicians 
+in further developing artificial intelligence for use in clinical care. 
+Artificial intelligence has the potential to impact the practice of 
+anesthesiology in aspects ranging from perioperative support to critical care 
+delivery to outpatient pain management.
+
+DOI: 10.1097/ALN.0000000000002960
+PMCID: PMC7643051
+PMID: 31939856 [Indexed for MEDLINE]
+
+
+Citation: Nat Rev Genet. 2018 Mar;19(3):148-159. doi: 10.1038/nrg.2017.104. Epub 2018 Jan 8.
+
+Title: The new genetics of intelligence.
+
+Authors: Plomin R(1), von Stumm S(2).
+
+AuthorInformation: (1)Institute of Psychiatry, Psychology and Neuroscience, King's College London, 
+16 De Crespigny Park, London SE5 8AF, UK.
+(2)Department of Psychological and Behavioural Science, London School of 
+Economics and Political Science, Queens House, 55-56 Lincoln's Inn Fields, 
+London WC2A 3LJ, UK.
+
+Abstract: Intelligence - the ability to learn, reason and solve problems - is at the 
+forefront of behavioural genetic research. Intelligence is highly heritable and 
+predicts important educational, occupational and health outcomes better than any 
+other trait. Recent genome-wide association studies have successfully identified 
+inherited genome sequence differences that account for 20% of the 50% 
+heritability of intelligence. These findings open new avenues for research into 
+the causes and consequences of intelligence using genome-wide polygenic scores 
+that aggregate the effects of thousands of genetic variants.
+
+DOI: 10.1038/nrg.2017.104
+PMCID: PMC5985927
+PMID: 29335645 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests statement The authors 
+declare no competing interests.
+
+
+Citation: Turk J Ophthalmol. 2020 Mar 5;50(1):37-43. doi: 10.4274/tjo.galenos.2020.78989.
+
+Title: Artificial Intelligence and Ophthalmology.
+
+Authors: Keskinbora K(1), Güven F(2).
+
+AuthorInformation: (1)Bahçeşehir University Faculty of Medicine, Department of Ophthalmology, 
+Division of Medical Ethics and History of Medicine, İstanbul, Turkey
+(2)Health Sciences University Bakırköy Training and Research Hospital, Clinic of 
+Ophthalmology, İstanbul, Turkey
+
+Comment in
+    Turk J Ophthalmol. 2020 Dec 29;50(6):392.
+
+Abstract: Artificial intelligence is advancing rapidly and making its way into all areas 
+of our lives. This review discusses developments and potential practices 
+regarding the use of artificial intelligence in the field of ophthalmology, and 
+the related topic of medical ethics. Various artificial intelligence 
+applications related to the diagnosis of eye diseases were researched in books, 
+journals, search engines, print and social media. Resources were cross-checked 
+to verify the information. Artificial intelligence algorithms, some of which 
+were approved by the US Food and Drug Administration, have been adopted in the 
+field of ophthalmology, especially in diagnostic studies. Studies are being 
+conducted that prove that artificial intelligence algorithms can be used in the 
+field of ophthalmology, especially in diabetic retinopathy, age-related macular 
+degeneration, and retinopathy of prematurity. Some of these algorithms have come 
+to the approval stage. The current point in artificial intelligence studies 
+shows that this technology has advanced considerably and shows promise for 
+future work. It is believed that artificial intelligence applications will be 
+effective in identifying patients with preventable vision loss and directing 
+them to physicians, especially in developing countries where there are fewer 
+trained professionals and physicians are difficult to reach. When we consider 
+the possibility that some future artificial intelligence systems may be 
+candidates for moral/ethical status, certain ethical issues arise. Questions 
+about moral/ethical status are important in some areas of applied ethics. 
+Although it is accepted that current intelligence systems do not have 
+moral/ethical status, it has yet to be determined what the exact the 
+characteristics that confer moral/ethical status are or will be.
+
+DOI: 10.4274/tjo.galenos.2020.78989
+PMCID: PMC7086098
+PMID: 32167262 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest: No conflict of interest 
+was declared by the authors.
+
+
+Citation: Acad Radiol. 2020 Jan;27(1):62-70. doi: 10.1016/j.acra.2019.10.001. Epub 2019 
+Oct 19.
+
+Title: Artificial Intelligence in Medicine: Where Are We Now?
+
+Authors: Kulkarni S(1), Seneviratne N(2), Baig MS(3), Khan AHA(3).
+
+AuthorInformation: (1)Department of Radiology, Hospital of the University of Pennsylvania, 3400 
+Spruce Street, Philadelphia 19104, PA; Barts and The London School of Medicine 
+and Dentistry, London, United Kingdom. Electronic address: 
+sagar.kulkarni@medsci.ox.ac.uk.
+(2)Department of Geriatric Medicine, The Princess Alexandra Hospital NHS Trust, 
+Harlow, United Kingdom.
+(3)Barts and The London School of Medicine and Dentistry, London, United 
+Kingdom.
+
+Abstract: Artificial intelligence in medicine has made dramatic progress in recent years. 
+However, much of this progress is seemingly scattered, lacking a cohesive 
+structure for the discerning observer. In this article, we will provide an 
+up-to-date review of artificial intelligence in medicine, with a specific focus 
+on its application to radiology, pathology, ophthalmology, and dermatology. We 
+will discuss a range of selected papers that illustrate the potential uses of 
+artificial intelligence in a technologically advanced future.
+
+Copyright © 2019 The Association of University Radiologists. All rights 
+reserved.
+
+DOI: 10.1016/j.acra.2019.10.001
+PMID: 31636002 [Indexed for MEDLINE]
+
+
+Citation: J Pak Med Assoc. 2021 Dec;71(12):2777-2781. doi: 10.47391/JPMA.1779.
+
+Title: Emotional intelligence and academic performance of students.
+
+Authors: Rehman R(1), Tariq S(2), Tariq S(3).
+
+AuthorInformation: (1)Department of Biological and Biomedical Sciences, Aga Khan University, 
+Karachi, Pakistan.
+(2)Department of Physiology, University Medical and Dental College, The 
+University of Faisalabad, Pakistan.
+(3)Department of Pharmacology, University Medical and Dental College, The 
+University of Faisalabad, Pakistan.
+
+Abstract: The medical profession deals with 'humanism' which involves interactions with 
+people, the ability to think about them, care for them, and to provide positive 
+reinforcement in clinical follow-ups. Emotional intelligence integrates the 
+significant features of personal relationships to promote self-management 
+skills, like adaptability, control of temperaments and reduction of tension, 
+which can improve performance of individuals. This has led to increasing 
+interest in the importance of emotional intelligence for effective academic 
+growth, professional experiences and clinical practice. There are many studies 
+examining the correlation between emotional intelligence and academic 
+achievement at different education levels, signifying its importance to predict 
+students who need guided intervention. With proven relationship between 
+emotional intelligence and academic success, the assessment of emotional 
+intelligence can be introduced in entrance exams of medical schools to recognise 
+students who might need directed intermediation. With the agreement of all 
+stakeholders, emotional intelligence training workshops and awareness sessions 
+can be introduced for educators and students.
+
+DOI: 10.47391/JPMA.1779
+PMID: 35150537 [Indexed for MEDLINE]
+
+
+Citation: Am J Kidney Dis. 2019 Dec;74(6):803-810. doi: 10.1053/j.ajkd.2019.05.020. Epub 
+2019 Aug 23.
+
+Title: Artificial Intelligence in Nephrology: Core Concepts, Clinical Applications, and 
+Perspectives.
+
+Authors: Niel O(1), Bastard P(2).
+
+AuthorInformation: (1)Pediatric Nephrology Department, Robert Debré Hospital, Paris, France. 
+Electronic address: o.r.p.niel@free.fr.
+(2)Pediatric Nephrology Department, Robert Debré Hospital, Paris, France.
+
+Abstract: Artificial intelligence is playing an increasingly important role in many fields 
+of medicine, assisting physicians in most steps of patient management. In 
+nephrology, artificial intelligence can already be used to improve clinical 
+care, hemodialysis prescriptions, and follow-up of transplant recipients. 
+However, many nephrologists are still unfamiliar with the basic principles of 
+medical artificial intelligence. This review seeks to provide an overview of 
+medical artificial intelligence relevant to the practicing nephrologist, in all 
+fields of nephrology. We define the core concepts of artificial intelligence and 
+machine learning and cover the basics of the functioning of neural networks and 
+deep learning. We also discuss the most recent clinical applications of 
+artificial intelligence in nephrology and medicine; as an example, we describe 
+how artificial intelligence can predict the occurrence of progressive 
+immunoglobulin A nephropathy. Finally, we consider the future of artificial 
+intelligence in clinical nephrology and its impact on medical practice, and 
+conclude with a discussion of the ethical issues that the use of artificial 
+intelligence raises in terms of clinical decision making, physician-patient 
+relationship, patient privacy, and data collection.
+
+Copyright © 2019 National Kidney Foundation, Inc. Published by Elsevier Inc. All 
+rights reserved.
+
+DOI: 10.1053/j.ajkd.2019.05.020
+PMID: 31451330 [Indexed for MEDLINE]
+
+
+Citation: Dentomaxillofac Radiol. 2021 Mar 1;50(3):20200375. doi: 10.1259/dmfr.20200375. 
+Epub 2020 Nov 16.
+
+Title: Artificial intelligence in oral and maxillofacial radiology: what is currently 
+possible?
+
+Authors: Heo MS(1), Kim JE(2), Hwang JJ(3), Han SS(4), Kim JS(5), Yi WJ(1), Park IW(6).
+
+AuthorInformation: (1)Department of Oral and Maxillofacial Radiology and Dental Research Institute, 
+School of Dentistry, Seoul National University, Seoul, Republic of Korea.
+(2)Department of Oral and Maxillofacial Radiology, Seoul National University 
+Dental Hospital, Seoul, Republic of Korea.
+(3)Department of Oral and Maxillofacial Radiology, School of Dentistry, Pusan 
+National University, Yangsan, Republic of Korea.
+(4)Department of Oral and Maxillofacial Radiology, College of Dentistry, Yonsei 
+University, Seoul, Republic of Korea.
+(5)Department of Oral and Maxillofacial Radiology, College of Dentistry, Chosun 
+University, Gwangju, Republic of Korea.
+(6)Department of Oral and Maxillofacial Radiology, College of Dentistry, 
+Gangneung-Wonju National University, Gangneung, Republic of Korea.
+
+Abstract: Artificial intelligence, which has been actively applied in a broad range of 
+industries in recent years, is an active area of interest for many researchers. 
+Dentistry is no exception to this trend, and the applications of artificial 
+intelligence are particularly promising in the field of oral and maxillofacial 
+(OMF) radiology. Recent researches on artificial intelligence in OMF radiology 
+have mainly used convolutional neural networks, which can perform image 
+classification, detection, segmentation, registration, generation, and 
+refinement. Artificial intelligence systems in this field have been developed 
+for the purposes of radiographic diagnosis, image analysis, forensic dentistry, 
+and image quality improvement. Tremendous amounts of data are needed to achieve 
+good results, and involvement of OMF radiologist is essential for making 
+accurate and consistent data sets, which is a time-consuming task. In order to 
+widely use artificial intelligence in actual clinical practice in the future, 
+there are lots of problems to be solved, such as building up a huge amount of 
+fine-labeled open data set, understanding of the judgment criteria of artificial 
+intelligence, and DICOM hacking threats using artificial intelligence. If 
+solutions to these problems are presented with the development of artificial 
+intelligence, artificial intelligence will develop further in the future and is 
+expected to play an important role in the development of automatic diagnosis 
+systems, the establishment of treatment plans, and the fabrication of treatment 
+tools. OMF radiologists, as professionals who thoroughly understand the 
+characteristics of radiographic images, will play a very important role in the 
+development of artificial intelligence applications in this field.
+
+DOI: 10.1259/dmfr.20200375
+PMCID: PMC7923066
+PMID: 33197209 [Indexed for MEDLINE]
+
+
+Citation: Synthese. 2018;195(9):4169-4200. doi: 10.1007/s11229-017-1414-z. Epub 2017 May 
+17.
+
+Title: Mandevillian intelligence.
+
+Authors: Smart PR(1).
+
+AuthorInformation: (1)Electronics and Computer Science, University of Southampton, Highfield, 
+Southampton, SO17 1BJ UK.
+
+Abstract: Mandevillian intelligence is a specific form of collective intelligence in which 
+individual cognitive vices (i.e., shortcomings, limitations, constraints and 
+biases) are seen to play a positive functional role in yielding collective forms 
+of cognitive success. The present paper introduces the concept of mandevillian 
+intelligence and reviews a number of strands of empirical research that help to 
+shed light on the phenomenon. The paper also attempts to highlight the value of 
+the concept of mandevillian intelligence from a philosophical, scientific and 
+engineering perspective. Inasmuch as we accept the notion of mandevillian 
+intelligence, then it seems that the cognitive and epistemic value of a specific 
+social or technological intervention will vary according to whether our 
+attention is focused at the individual or collective level of analysis. This has 
+a number of important implications for how we think about the design and 
+evaluation of collective cognitive systems. For example, the notion of 
+mandevillian intelligence forces us to take seriously the idea that the 
+exploitation (or even the accentuation) of individual cognitive shortcomings 
+could, in some situations, provide a productive route to collective forms of 
+cognitive and epistemic success.
+
+DOI: 10.1007/s11229-017-1414-z
+PMCID: PMC6404659
+PMID: 30930501
+
+Conflict of interest statement: Compliance with ethical standardsThe authors 
+declare that they have no conflicts of interest with respect to their authorship 
+or the publication of this article.
+
+
+Citation: Int J Nurs Stud. 2018 Apr;80:106-117. doi: 10.1016/j.ijnurstu.2018.01.006. Epub 
+2018 Jan 11.
+
+Title: The impact of emotional intelligence in health care professionals on caring 
+behaviour towards patients in clinical and long-term care settings: Findings 
+from an integrative review.
+
+Authors: Nightingale S(1), Spiby H(2), Sheen K(3), Slade P(3).
+
+AuthorInformation: (1)University of Liverpool, Liverpool, UK. Electronic address: 
+suzanne.nightingale@gmmh.nhs.uk.
+(2)University of Nottingham, Nottingham, UK.
+(3)University of Liverpool, Liverpool, UK.
+
+Abstract: BACKGROUND: Over recent years there has been criticism within the United 
+Kingdom's health service regarding a lack of care and compassion, resulting in 
+adverse outcomes for patients. The impact of emotional intelligence in staff on 
+patient health care outcomes has been recently highlighted. Many recruiters now 
+assess emotional intelligence as part of their selection process for health care 
+staff. However, it has been argued that the importance of emotional intelligence 
+in health care has been overestimated.
+OBJECTIVES: To explore relationships between emotional intelligence in health 
+care professionals, and caring behaviour. To further explore any additional 
+factors related to emotional intelligence that may impact upon caring behaviour.
+DESIGN: An integrative review design was used.
+DATA SOURCES: Psychinfo, Medline, CINAHL Plus, Social Sciences Citation Index, 
+Science Citation Index, and Scopus were searched for studies from 1995 to April 
+2017.
+REVIEW METHODS: Studies providing quantitative or qualitative exploration of how 
+any healthcare professionals' emotional intelligence is linked to caring in 
+healthcare settings were selected.
+RESULTS: Twenty two studies fulfilled the inclusion criteria. Three main types 
+of health care professional were identified: nurses, nurse leaders, and 
+physicians. Results indicated that the emotional intelligence of nurses was 
+related to both physical and emotional caring, but emotional intelligence may be 
+less relevant for nurse leaders and physicians. Age, experience, burnout, and 
+job satisfaction may also be relevant factors for both caring and emotional 
+intelligence.
+CONCLUSIONS: This review provides evidence that developing emotional 
+intelligence in nurses may positively impact upon certain caring behaviours, and 
+that there may be differences within groups that warrant further investigation. 
+Understanding more about which aspects of emotional intelligence are most 
+relevant for intervention is important, and directions for further large scale 
+research have been identified.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ijnurstu.2018.01.006
+PMID: 29407344 [Indexed for MEDLINE]
+
+
+Citation: J Intell. 2020 Nov 19;8(4):40. doi: 10.3390/jintelligence8040040.
+
+Title: Communicating Intelligence Research.
+
+Authors: Wai J(1).
+
+AuthorInformation:
+(1)Department of Education Reform and Department of Psychology, University of 
+Arkansas, Fayetteville, AR 72701, USA.
+
+Abstract: Despite intelligence research being among the most replicable bodies of 
+empirical findings-a Rosetta stone across the social sciences-the communication 
+of intelligence research with non-intelligence researchers and the public 
+remains a challenge, especially given ongoing public controversies throughout 
+the history of the field. Hunt argued that "we have a communication problem." 
+This article is a call for intelligence researchers to consider communication at 
+multiple levels-communication with other intelligence researchers, communication 
+with non-intelligence researchers, and communication with the public, defined 
+here as policymakers, practitioners, students, and general readers. It discusses 
+ongoing tensions between academic freedom and social responsibility and provides 
+suggestions for thinking about communication and effective research translation 
+and implementation of intelligence research from the frameworks of science and 
+policy research communication. It concludes with some recommendations for 
+effective communication and stresses the importance of incentivizing more 
+scholars to responsibly seek to educate and engage with multiple publics about 
+the science of intelligence.
+
+DOI: 10.3390/jintelligence8040040
+PMCID: PMC7709659
+PMID: 33228040
+
+Conflict of interest statement: The author declares no conflict of interest.
