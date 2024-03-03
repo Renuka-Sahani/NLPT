@@ -105,4 +105,10 @@ We created Three models where we used LLMs:
 
 2) LLM(with UI).ipynb - This project leverages Langchain and various Large Language Models to build a chatbot that answers questions, utilizing embeddings and Gradio for an interactive UI. ------ done by Renuka Sahani and Suraj Desai
 
+UI Photos: 
+
+<img width="1512" alt="Screenshot 2024-03-03 at 21 23 48" src="https://github.com/Renuka-Sahani/NLPT/assets/32381311/433a20f7-88b5-4494-a061-7b448dc6a3c6">
+
+<img width="1512" alt="Screenshot 2024-03-03 at 21 24 19" src="https://github.com/Renuka-Sahani/NLPT/assets/32381311/18ece928-6b42-4613-8f87-13a89973083f">
+
 3) QA_System_OpenAI.ipynb - We downloaded the data with the necessay filter from the PubMed webiste and stored them in a google drive. Then after we retrieve the files by mounting google drives with the colab notebook.Then we split the data into chunks there after we create function for storing and loading the embeddings.Now we use the OpenAI embeddings to create the vectors and then we initiate the chain to answer question. We then enetered the question and answers them. ------ done by Suraj Desai and Renuka Sahani
