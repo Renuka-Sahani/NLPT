@@ -27,7 +27,9 @@ Radha Mungara - radha.mungara18@gmail.com
 ## Description
 This project aims to utilize state-of-the-art NLP Transformer models to analyze and categorize legal documents from the PubMed. By leveraging natural language processing techniques, we enhance the accessibility and understanding of complex legal texts for legal professionals and the general public.
 
-## Installation Instructions
+## Installation
+
+on Instructions
 ```
 git clone https://github.com/Renuka-Sahani/NLPT.git
 pip install -r requirements.txt
