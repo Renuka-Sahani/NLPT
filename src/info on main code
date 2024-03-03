@@ -1,0 +1,9 @@
+Here all the main codes are present.
+
+We created Three models where we used LLMs:
+
+1) LLM(data from website).ipynb - We have extracted the data directly from PubMed websites and then after that we have created embeddings(Download the OpenAI Embeddings or Hugging Face Embeddings) and after that we  Converted the Text Chunks into Embeddings and Create a Knowledge Base, then we created LLM wrapper,at last we initialize the Retrieval QA with Source Chain,we used llama model here(meta-llama/Llama-2-7b-chat-hf).  -------- done by Vishal Mangukiya and Radha Mungara
+
+2) LLM(with UI).ipynb - This project leverages Langchain and various Large Language Models to build a chatbot that answers questions, utilizing embeddings and Gradio for an interactive UI. ------ done by Renuka Sahani and Suraj Desai
+
+3) QA_System_OpenAI.ipynb - We downloaded the data with the necessay filter from the PubMed webiste and stored them in a google drive. Then after we retrieve the files by mounting google drives with the colab notebook.Then we split the data into chunks there after we create function for storing and loading the embeddings.Now we use the OpenAI embeddings to create the vectors and then we initiate the chain to answer question. We then enetered the question and answers them. ------ done by Suraj Desai and Renuka Sahani
