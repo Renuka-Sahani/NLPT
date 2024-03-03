@@ -44,6 +44,7 @@ We welcome contributions!
 ## Data Sources
 - PubMed: Medical documents database.
 
+![image](https://github.com/Renuka-Sahani/NLPT/assets/95965464/ed1b863c-b7de-4854-b24a-56eda1fce2da)
 
 ## Methodology
 Our workflow integrates data acquisition, pre-processing, Transformer model training, and answer generation for legal queries.
