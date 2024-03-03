@@ -51,6 +51,8 @@ Our workflow integrates data acquisition, pre-processing, Transformer model trai
 ## User Interface
 The project features a web interface for easy interaction with the system, allowing users to submit queries and receive processed information.
 
+<img width="1512" alt="Screenshot 2024-03-03 at 21 25 13" src="https://github.com/Renuka-Sahani/NLPT/assets/32381311/a31537c9-77ca-4975-8adc-cdf4b39e73fd">
+
 ## Evaluation and Results
 We evaluated our models based on accuracy, precision, and recall, achieving significant improvements over traditional methods.
 
