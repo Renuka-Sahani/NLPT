@@ -55,6 +55,10 @@ The project features a web interface for easy interaction with the system, allow
 ## LLM(data from website)
 ![image (1)](https://github.com/Renuka-Sahani/NLPT/assets/95965464/95ad8d8a-8882-4517-9519-fc876a01cae4)
 
+## QA_System_OpenAI
+<img width="1512" alt="Screenshot 2024-03-03 at 22 31 57" src="https://github.com/Renuka-Sahani/NLPT/assets/95965464/99652453-51b3-4bd6-9603-815e3c168092">
+
+## LLM(with UI
 <img width="1512" alt="Screenshot 2024-03-03 at 21 25 13" src="https://github.com/Renuka-Sahani/NLPT/assets/32381311/a31537c9-77ca-4975-8adc-cdf4b39e73fd">
 
 ## Evaluation and Results
