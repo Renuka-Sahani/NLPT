@@ -70,7 +70,7 @@ We evaluated our models based on accuracy, precision, and recall, achieving sign
 
 ## Credits and Acknowledgments
 - Team Members: Renuka Sahani, Radha Mungara, Suraj Desai, Vishal Mangukiya
-- Mentor: Dr. Jane Doe
+- Mentor: Satya Almasian
 
 ##  git commands cheat sheet
  - please don't directly push to main, create a PR and request review or directly contact another member to review before you push. if unsure please just create a PR and wait after requesting review, (patience is a virtue ;-) ) .
