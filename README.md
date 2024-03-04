@@ -36,6 +36,15 @@ on Instructions
 ```
 git clone https://github.com/Renuka-Sahani/NLPT.git
 pip install -r requirements.txt
+
+If you wan to run: LLM(with UI).ipynb :
+You need to upload the sodapdf-converted (1).pdf file from input folder and then you need to create one transformer folder(inside this folder)
+We need to create the embeddings only once, and then we can just load the vector store and query the database using similarity search.
+Loading the embeddings takes only a few seconds. I uploaded the embeddings to a Input folder and there after you can just excute the cells.
+
+If you want to run: LLM(data from website).ipynb:
+You need to give direct websit link here in the code and then you will be able to run this as well.
+
 ```
 
 ## Contributing
