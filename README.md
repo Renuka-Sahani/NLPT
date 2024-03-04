@@ -45,6 +45,9 @@ Loading the embeddings takes only a few seconds. I uploaded the embeddings to a 
 If you want to run: LLM(data from website).ipynb:
 You need to give direct websit link here in the code and then you will be able to run this as well.
 
+If you want to run: QA_System_OpenAI.ipynb:
+You need to mount the python notebook to your google drive, for which you will find the relevant command in the notebook. Thereafter you will be asked to give access to your google drive to which you agree. Meanwhile, make sure to create a "Documents" folder in your drive under the "My Drive" menu. And in that folder, you can upload the input pdf files which you will find in the "input" folder of this repo. And then, you should be well on your way to run the code smoothly!
+
 ```
 
 ## Contributing
