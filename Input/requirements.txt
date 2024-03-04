@@ -1,0 +1,11 @@
+langchain
+openai
+unstructured
+tokenizers
+tiktoken
+chromadb
+pypdf2
+InstructorEmbedding
+faiss-cpu
+sentence_transformers==2.2.2
+gradio
